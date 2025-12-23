@@ -1,4 +1,4 @@
-﻿        # Python 3.13 Compatible - Streamlit Cloud
+﻿Python 3.13 
 streamlit==1.33.0
 pandas==2.2.2
 numpy==2.0.0
