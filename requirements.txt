@@ -1,8 +1,8 @@
-streamlit==1.33.0
-pandas==2.2.1  # Downgraded slightly for better compatibility
+streamlit==1.28.1  # Very stable version
+pandas==2.1.4
 numpy==1.24.3
-plotly==5.21.0
-scikit-learn==1.5.0  # Updated to newer version
+plotly==5.18.0
+scikit-learn==1.3.2
 xgboost==1.7.6
 joblib==1.3.2
 yfinance==0.2.36
